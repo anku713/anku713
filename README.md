@@ -47,7 +47,7 @@ const ankush = {
 
 ### 🏗️ Full Stack Development
 - **Frontend**: React, Next.js, Vue.js, TypeScript
-- **Backend**: Node.js, FastAPI, Django, .NET
+- **Backend**: Node.js, FastAPI
 - **Cloud**: Azure, AWS, serverless architectures
 - **Data**: Microsoft Fabric, Power BI, real-time analytics
 
@@ -122,7 +122,7 @@ const ankush = {
 
 ---
 
-### 📊 [Qlik → Microsoft Fabric AI Migration](link-to-repo)
+### 📊 [ Microsoft Fabric AI Migration](link-to-repo)
 > **Zero-downtime enterprise migration** | Multi-agent AI orchestration
 
 - 🔄 Migrated **2M+ records/day** with data integrity validation
